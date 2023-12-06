@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "workspaces": [
-    "services/*",
-    "frontend"
+    "./services",
+    "./frontend"
   ],
   "scripts": {
     "next:dev": "next dev",
